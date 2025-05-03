@@ -33,3 +33,35 @@
    ```bash
    git clone https://github.com/jeid12/competA-arena.git
    cd competA-arena
+   ```
+3.Install dependencies:
+```bash
+  npm install  # Frontend (React)
+  npm install  # Express + postgress+ typeORM
+```
+🤝 How to Contribute
+We welcome developers, educators, and students!
+
+Fork the repository.
+
+Check the Good First Issues or propose a new feature.
+
+Follow our Contribution Guidelines.
+
+Need Help? Join our Discord Server or tag https://discord.gg/9u2APSgt in issues.
+
+📜 License
+This project is licensed under the MIT License. See LICENSE for details.
+
+🙏 Partners & Acknowledgments
+Supported by University of Rwanda’s Computer Science Department.
+
+Inspired by Rwanda Informatics Olympiad and Codeforces.
+
+Language tools from Rwanda Open Source.
+
+Let’s build the future of education together! 💡
+  
+
+
+   
