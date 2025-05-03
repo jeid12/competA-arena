@@ -1,4 +1,4 @@
-# CompetA 🇷🇼  
+# CompetA arena 🇷🇼  
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/jeid12/competA-arena)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/jeid12/competA-arena/pulls)
@@ -28,7 +28,7 @@
 
 ## 🛠️ Installation
 1. **Prerequisites**:  
-   - Node.js ≥ v18, Python ≥ 3.10, PostgreSQL ≥ 14
+   - Node.js ≥ v18, PostgreSQL ≥ 14,React Js +Ts
 2. **Clone the repo**:  
    ```bash
    git clone https://github.com/jeid12/competA-arena.git
