@@ -6,7 +6,7 @@ Thank you for considering contributing to CompetA! This document will help you g
 
 ## 🛠 Tech Stack
 - **Backend**: Node.js + Express, TypeORM, PostgreSQL, TypeScript
-- **Frontend**: React + TypeScript, Tailwind CSS
+- **Frontend**: Next + TypeScript, Tailwind CSS
 - **Tools**: Git, npm, PostgreSQL
 
 ---
